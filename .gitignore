@@ -1,0 +1,11 @@
+.env
+app.py
+
+
+
+# If the .env file is already committed, follow the below steps:
+
+# Step 1: You must remove it from the index (without deleting the file locally)
+# git rm --cached .env 
+# git commit -m "Remove .env from version control"
+# git status
