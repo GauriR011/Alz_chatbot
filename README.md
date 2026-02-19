@@ -2,6 +2,8 @@
 
 ReMind is a mobile application developed as part of the **Google API Developer Competition** to assist individuals with Alzheimer's disease in managing daily tasks, medications, and routines. The app is designed for both patients and caregivers, providing an intuitive interface and personalized support to enhance independence and well-being.
 
+This repository showcases the personalized conversational chatbot built using the Gemini API.
+
 ## 🎯 Target Audience
 - **Alzheimer’s Patients:** Helps maintain daily routines, track medications, and monitor overall well-being.  
 - **Caregivers & Healthcare Professionals:** Provides insights into the patient’s cognitive state and daily activities through automatically generated reports and memory logs.
