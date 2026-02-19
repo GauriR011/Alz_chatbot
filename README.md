@@ -32,6 +32,11 @@ This repository showcases the personalized conversational chatbot built using th
   - Summary of the conversation  
   - Insights into cognitive progress and daily routine  
 - Accessible to healthcare professionals for monitoring patient condition over time.
+  
+<br>
+
+![Chatbot Interface](./snapshots/alz_app_snap1.png)
+
 
 ## 🛠 Technologies Used
 - **Mobile Development:** Flutter  
