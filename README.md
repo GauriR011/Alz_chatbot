@@ -1,4 +1,4 @@
-# ReMind: A Mobile Application for Alzheimer’s Patients
+# ReMind: An Application for Alzheimer’s Patients
 
 ReMind is a mobile application developed as part of the **Google API Developer Competition** to assist individuals with Alzheimer's disease in managing daily tasks, medications, and routines. The app is designed for both patients and caregivers, providing an intuitive interface and personalized support to enhance independence and well-being.
 
@@ -49,8 +49,6 @@ This repository showcases the personalized conversational chatbot built using th
 2. Responses are analyzed for sentiment and stored in **Firebase**.
 3. A **memory log** is generated automatically, summarizing key observations for caregivers and healthcare professionals.
 4. The app interface allows patients and caregivers to review daily routines, journal entries, and trends over time.
-
-You can find the code for the entire application here: https://github.com/farheenfab/ReMind_app
 
 ---
 
