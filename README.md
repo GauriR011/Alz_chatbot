@@ -88,7 +88,15 @@ alz_chatbot/
 │   ├── chat_screen.py    
 │   └── sidebar.py    
 
-A glimpse of how the project works: 
+
+
+**A glimpse of how the project works:**
+
+<img width="3199" height="1722" alt="Chat_screen" src="https://github.com/user-attachments/assets/df8f8594-c800-4478-8b43-e4e3b63cded6" />
+
+
+https://github.com/user-attachments/assets/7b554151-9b65-4fcd-b45c-168c849c5e33
+
 
 
 ## Instructions to run the Project:
