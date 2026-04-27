@@ -1,4 +1,3 @@
-# --------------------------- app.py ---------------------------
 import os
 import datetime as dt
 
@@ -13,7 +12,7 @@ load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 MONGODB_URI = os.getenv("MONGODB_URI")
-DB_NAME = os.getenv("DB_NAME")  # e.g., "wellness_chatbot"
+DB_NAME = os.getenv("DB_NAME")  
 
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY not set in .env")
@@ -27,7 +26,7 @@ db = mongo_client[DB_NAME]
 
 # ---------- Config ----------
 MODEL_NAME = "gemini-2.0-flash"
-USER_ID = "marimogojo_db_user"
+USER_ID = str(os.getenv("USER_ID"))
 
 # System prompt
 SYSTEM_PROMPT = """
