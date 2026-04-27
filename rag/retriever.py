@@ -21,7 +21,7 @@ def retrieve(query, user_id, top_k=3):
     return [x[1] for x in scored[:top_k]]
 
 
-# 🔥 time-aware retrieval
+# time-aware retrieval
 def filter_by_time(journals, days=7):
     cutoff = dt.datetime.utcnow() - dt.timedelta(days=days)
     return [j for j in journals if j["created_at"] >= cutoff]
