@@ -2,11 +2,11 @@
 
 ## Overview
 
-ReMind is a web-based application designed to support individuals with Alzheimer’s disease through daily conversational interaction. The system engages patients in natural dialogue to understand their mood, daily activities, and overall well-being.
+A web-based application designed to support individuals with Alzheimer’s disease through daily conversational interaction. The system engages patients in natural dialogue to understand their mood, daily activities, and overall well-being.
 
 The conversations are processed using a Large Language Model (LLM), which extracts meaningful insights and automatically generates structured journal entries. These journals help caregivers and medical professionals monitor cognitive and emotional patterns over time.
 
-In addition, ReMind includes a **Retrieval-Augmented Generation (RAG)** system that enables healthcare professionals to query patient history and journal logs, making it easier to analyze long-term behavioral and medical trends.
+In addition, the app includes a **Retrieval-Augmented Generation (RAG)** system that enables healthcare professionals to query patient history and journal logs, making it easier to analyze long-term behavioral and medical trends.
 
 
 
@@ -120,4 +120,4 @@ DB_NAME="alz_app_db"
 streamlit run app.py
 ```
 
-*ReMind was developed with care to support Alzheimer’s patients, their caregivers, and healthcare providers through innovative use of AI and mobile technology.*
+*This application was developed with care to support Alzheimer’s patients, their caregivers, and healthcare providers through innovative use of AI and mobile technology.*
