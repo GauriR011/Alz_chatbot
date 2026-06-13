@@ -1,4 +1,4 @@
-# Wellness Companion
+# AlzBot - A Wellness Companion
 
 ## Overview
 
